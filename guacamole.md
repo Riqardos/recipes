@@ -5,3 +5,5 @@
 * salt (14,76 Euro)
 ## Instructions
 an ill-fated change
+ošúp avokádo
+sprav guacamole
