@@ -5,3 +5,7 @@
 * salt (14,76 Euro)
 ## Instructions
 an ill-fated change
+a ďalšia kkcina
+a teraz toto
+a teraz čo?
+a čo teraz?
