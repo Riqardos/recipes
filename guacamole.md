@@ -1,9 +1,7 @@
- Guacamole
+# Guacamole
 ## Ingredients
-* avocado (54,76 Euro)
-* lime (34,76 Euro)
-* salt (14,76 Euro)
+* avocado
+* lime
+* salt
 ## Instructions
-an ill-fated change
-ošúp avokádo
-sprav guacamole
+* peel the avocados and put them into a bowl
